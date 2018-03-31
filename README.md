@@ -2,6 +2,8 @@
 
 Demo project, using [linc_imgui](https://github.com/Aidan63/linc_imgui) bindings for [ImGui](https://github.com/ocornut/imgui) library with [Kha](https://github.com/Kode/Kha) engine.
 
+![](Screenshot/Screenshot.png)
+
 # Dependencies
 
 You'll need [Node.js](https://nodejs.org/) 8.0+ to build project.

@@ -16,14 +16,14 @@ You'll need [Node.js](https://nodejs.org/) 8.0+ to build project.
 git clone --recursive https://github.com/CoruNethron/KhaImGuiDemo
 ```
 
- - Build:
+ - Build command example:
 
 ```
 cd KhaImGuiDemo
 node Kha/make --compile windows -v vs2017
 ```
 
-Executable will be in build/windows/KhaImGuiDemo.exe
+Executable will be in build/windows/ImGuiDemo.exe
 
 # Testing
 

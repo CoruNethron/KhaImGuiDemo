@@ -1,0 +1,6 @@
+[submodule "Libraries/linc_imgui"]
+	path = Libraries/linc_imgui
+	url = https://github.com/CoruNethron/linc_imgui
+[submodule "Kha"]
+	path = Kha
+	url = https://github.com/Kode/Kha
